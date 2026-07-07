@@ -1,0 +1,4 @@
+venv/
+report.txt
+__pycache__/
+*pyc
