@@ -3,7 +3,7 @@
 A command-line tool that recursively scans a directory for accidentally committed secrets — hardcoded passwords, email addresses, and API-key-like strings — and writes a findings report.
 
 > **Year 1 · Module 1: Programming & Scripting Basics**
-> First stop on a 4-year, project-based Cyber Security roadmap. See [`CURRICULUM.md`](./CURRICULUM.md) for where this project goes next.
+> First stop on a 4-year, project-based Cyber Security roadmap.See [the 4-year roadmap](https://github.com/lonyoriconsulting-maker/btech-cybersec-roadmap) for where this project goes next.
 
 ## Why this exists
 
