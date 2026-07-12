@@ -41,7 +41,7 @@ python3 secuscan.py --path /path/to/scan --output findings.txt
 
 ## Project status
 
-Built and working: directory walk, safe file reading, multi-pattern regex matching, CLI args, report output. This is a completed Year 1 milestone, not a finished security product — see [Limitations](#limitations) and `CURRICULUM.md` for where the rough edges get sanded off in later years.
+Built and working: directory walk, safe file reading, multi-pattern regex matching, CLI args, report output. This is a completed Year 1 milestone, not a finished security product — see [Limitations](#limitations) and the [4-year roadmap](https://github.com/lonyoriconsulting-maker/btech-cybersec-roadmap) for where the rough edges get sanded off in later years.
 
 ## Limitations
 
